@@ -1,0 +1,120 @@
+This sample output used the sample text "The King James Version of the Bible".
+(https://www.gutenberg.org/cache/epub/10/pg10.txt)
+
+--- Text Analysis ---
+
+Total characters: 4,332,286
+Total words: 792,188
+Unique words: 12556
+Lexical diversity: 0.01585
+Hapax words: 3933
+Total sentences: 29809
+Avg sentence length: 26.58 words
+Avg word length: 4.072 characters
+
+Longest 10 words:
+18 : mahershalalhashbaz
+17 : chushanrishathaim
+16 : kibrothhattaavah
+16 : bashanhavothjair
+16 : evilfavouredness
+16 : chepharhaammonai
+16 : selahammahlekoth
+16 : lovingkindnesses
+16 : covenantbreakers
+16 : unprofitableness
+
+Word length distribution:
+1 letters: 19864
+2 letters: 130991
+3 letters: 221664
+4 letters: 175936
+5 letters: 95585
+6 letters: 52762
+7 letters: 39529
+8 letters: 24799
+9 letters: 16668
+10 letters: 7503
+11 letters: 3845
+12 letters: 1706
+
+Top 2-word phrases:
+11555 : of the
+7035 : the lord
+6268 : and the
+5031 : in the
+2791 : and he
+2461 : shall be
+2162 : to the
+2144 : all the
+2086 : and they
+2032 : unto the
+1922 : i will
+1697 : of israel
+1675 : for the
+1662 : the king
+1649 : said unto
+1603 : son of
+1502 : out of
+1500 : the son
+1421 : the children
+1393 : children of
+
+Top 3-word phrases:
+1775 : of the lord
+1451 : the son of
+1355 : the children of
+883 : the house of
+854 : saith the lord
+816 : the lord and
+806 : out of the
+672 : and i will
+647 : children of israel
+617 : the land of
+571 : and the lord
+561 : and all the
+560 : the sons of
+510 : and he said
+509 : unto the lord
+479 : the lord god
+472 : the king of
+457 : came to pass
+454 : said unto him
+454 : it came to
+
+10 random hapax words:
+stomacher
+patterns
+elbethel
+ashteroth
+feignedly
+assay
+thamar
+sodi
+brokenhanded
+maalehacrabbim
+
+--- Table (Top 20) ---
+
+    Rank | Word     | Frequency
+------------------------------
+       1 | the      | 64115
+       2 | and      | 51696
+       3 | of       | 34721
+       4 | to       | 13598
+       5 | that     | 12912
+       6 | in       | 12667
+       7 | he       | 10419
+       8 | shall    | 9838
+       9 | unto     | 8997
+      10 | for      | 8971
+      11 | i        | 8854
+      12 | his      | 8473
+      13 | a        | 8177
+      14 | lord     | 7964
+      15 | they     | 7376
+      16 | be       | 7013
+      17 | is       | 6989
+      18 | him      | 6659
+      19 | not      | 6596
+      20 | them     | 6430
