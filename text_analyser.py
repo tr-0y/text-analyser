@@ -2,7 +2,7 @@ import random
 import re
 from collections import Counter
 
-FILE_PATH = "POINT TO A DIRECTORY HERE"
+FILE_PATH = "point to a text file"
 
 # 0 for all
 TOP_N = 20
@@ -11,11 +11,11 @@ MAX_PHRASE_LENGTH = 2
 MAX_WORD_LENGTH_BINS = 12
 MAX_LONGEST_WORDS = 20
 
-SHOW_LONGEST   = True
+SHOW_LONGEST = True
 SHOW_WORD_DIST = True
-SHOW_PHRASES   = True
-SHOW_HAPAX     = True
-SHOW_TABLE     = True
+SHOW_PHRASES = True
+SHOW_HAPAX = True
+SHOW_TABLE = True
 
 with open(FILE_PATH, 'r', encoding='utf-8') as f:
     raw_text = f.read()
